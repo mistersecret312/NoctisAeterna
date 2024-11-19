@@ -1,0 +1,11 @@
+{
+    "type": "evernight:evernight",
+    "generator": {
+        "type": "minecraft:noise",
+        "settings": "evernight:evernight",
+        "biome_source": {
+            "type": "minecraft:fixed",
+            "biome": "evernight:evernight_plains"
+        }
+    }
+}
