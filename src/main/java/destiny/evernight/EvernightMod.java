@@ -1,9 +1,9 @@
-package com.temporaldev.evernight;
+package destiny.evernight;
 
 import com.mojang.logging.LogUtils;
-import com.temporaldev.evernight.init.BlockInit;
-import com.temporaldev.evernight.init.ItemInit;
-import com.temporaldev.evernight.init.ItemTabInit;
+import destiny.evernight.init.BlockInit;
+import destiny.evernight.init.ItemInit;
+import destiny.evernight.init.ItemTabInit;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;

@@ -6,11 +6,11 @@ plugins {
     id 'org.parchmentmc.librarian.forgegradle' version '1.+'
 }
 
-version = mod_version
-group = mod_group_id
+version = '1.20.1-1.0'
+group = 'destiny.evernight'
 
 base {
-    archivesName = mod_id
+    archivesName = 'evernight'
 }
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
@@ -76,7 +76,7 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             mods {
-                "${mod_id}" {
+                "${evernight}" {
                     source sourceSets.main
                 }
             }

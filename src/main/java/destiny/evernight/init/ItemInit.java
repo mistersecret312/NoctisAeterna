@@ -1,6 +1,6 @@
-package com.temporaldev.evernight.init;
+package destiny.evernight.init;
 
-import com.temporaldev.evernight.EvernightMod;
+import destiny.evernight.EvernightMod;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
