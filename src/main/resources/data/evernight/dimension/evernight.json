@@ -5,7 +5,7 @@
         "settings": "evernight:evernight",
         "biome_source": {
             "type": "minecraft:fixed",
-            "biome": "evernight:evernight_plains"
+            "biome": "evernight:void_garden"
         }
     }
 }
