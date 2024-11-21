@@ -4,11 +4,11 @@
     "has_precipitation": true,
     "effects": {
         "sky_color": 0,
-        "fog_color": 8847544,
-        "water_color": 10485964,
-        "water_fog_color": 6881387,
-        "grass_color": 13369541,
-        "foliage_color": 13369541,
+        "fog_color": 6763649,
+        "water_color": 5384808,
+        "water_fog_color": 5384808,
+        "grass_color": 8076953,
+        "foliage_color": 8076953,
         "mood_sound": {
             "sound": "minecraft:ambient.cave",
             "tick_delay": 6000,
@@ -26,20 +26,19 @@
         ]
     },
     "features": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
-            "evernight:patch_soulbloom"
-        ],
-        [
-            "minecraft:patch_grass_plain"
-        ],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
-        []
+            "evernight:patch_soulbloom",
+            "minecraft:patch_grass_forest"
+        ]
     ]
 }
